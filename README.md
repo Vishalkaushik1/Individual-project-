@@ -95,12 +95,12 @@ Interpretation:
 This figure represents the diversity of purchase methods used, showing the organization's adaptability to customer preferences.  
 Insights:
 The dataset includes 3 purchase methods: Online, In-Store, and Phone. In-Store purchases dominate, followed by Online, while Phone transactions are minimal. This distribution highlights the importance of maintaining a strong in-store experience while optimizing online platforms to meet growing demand. Streamlining phone orders or transitioning customers to digital channels could enhance efficiency. Understanding customer preferences across methods will help improve service quality and balance usage across all purchase channels.
-----
+
 ### Learning
---
+
 ## Objective
 The objective of the project is to analyze sales data across various dimensions, such as customer demographics, purchase methods, store locations, and product performance, to derive actionable insights. The aim is to identify trends, optimize inventory management, improve customer satisfaction, enhance marketing strategies, and address underperforming areas. By leveraging these insights, the project seeks to drive business growth, improve operational efficiency, and align services with customer preferences for better decision-making.
-## -----
+
 ### Managerial Insights Gained from the Project
 
 1. **Customer Preferences**:
