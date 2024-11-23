@@ -4,7 +4,7 @@ The dataset provides a clear picture of sales and customer behavior across vario
 <h1>OBJECTIVES OF THE PROJECT</h1>
 The objective of the project is to analyze sales data across various dimensions, such as customer demographics, purchase methods, store locations, and product performance, to derive actionable insights. The aim is to identify trends, optimize inventory management, improve customer satisfaction, enhance marketing strategies, and address underperforming areas. By leveraging these insights, the project seeks to drive business growth, improve operational efficiency, and align services with customer preferences for better decision-making.
 
-<h1>Questions Asked About The Dataset For Dashboard</h1>
+<h1>QUESTIONS ASKED ABOUT THE DATASET FOR THE DASHBOARD</h1>
 
 Question 1: Which purchase method has the highest satisfaction level, and why? 
 
