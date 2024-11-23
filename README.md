@@ -145,6 +145,7 @@ Insights:
 - The dataset includes 3 purchase methods: Online, In-Store, and Phone. In-Store purchases dominate, followed by Online, while Phone transactions are minimal. This distribution highlights the importance of maintaining a strong in-store experience while optimizing online platforms to meet growing demand. Streamlining phone orders or transitioning customers to digital channels could enhance efficiency. Understanding customer preferences across methods will help improve service quality and balance usage across all purchase channels.
 
 <H1>MANAGERIAL INSIGHTS GAINED FROM THE PROJECT</H1>
+
 1. **Customer Preferences**:
    - In-store purchases dominate, indicating the need to maintain strong on-ground customer service.
    - Online transactions show significant engagement but require optimization to grow further, such as enhancing the user experience and delivery efficiency.
