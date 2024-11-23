@@ -40,14 +40,16 @@ Question 13: Are additional purchase methods needed to meet customer expectation
 <H1>INTERPRETATIONS OF CHARTS</H1>
 <H3>Graph 1: Average Customer Satisfaction by Purchase Method</H3>
 Question: Which purchase method has the highest satisfaction level, and why?  
+
 Interpretation:
-- This chart shows customer satisfaction levels segmented by the purchase method (e.g., Online, In-Store, Phone). 
+- This chart shows customer satisfaction levels segmented by the purchase method (e.g., Online, In-Store, Phone).
 - It highlights the effectiveness of each purchase channel in delivering customer satisfaction.  
 Insights:
 - Phone transactions have the highest customer satisfaction score at 3.837, indicating that personalized interaction enhances the experience. In-store purchases follow closely at 3.796, showing overall satisfaction but room for improvement in areas like wait times. Online transactions have the lowest score at 3.771, likely due to delivery or platform issues. Improving online user experience and optimizing in-store services can further boost customer satisfaction across all channels.
 
 <H3>Graph 2: Sales Quantity by Store Location</H3>
 Question: Which store location has the highest sales, and what factors contribute to this?  
+
 Interpretation:  
 - This chart depicts the volume of products sold at various store locations, indicating which locations contribute the most to sales.  
 Insights: 
@@ -55,6 +57,7 @@ Insights:
 
 <H3>Graph 3: Customer Satisfaction by Store Location</H3>  
 Question: Are high-sales locations also high in customer satisfaction?  
+
 Interpretation: 
 - This chart reflects how satisfied customers are at different store locations, which can indicate store-level service quality or product availability.  
 Insights:
@@ -62,6 +65,7 @@ Insights:
 
 <H3>Graph 4: Customer Product preference</H3>
 Question: Which product sells the most, and what makes it so popular?  
+
 Interpretation:  
 - This chart shows the total sales quantity for each product, helping identify top-performing and underperforming items.  
 Insights:
@@ -69,6 +73,7 @@ Insights:
 
 <H3>Graph 5: Customer Age Distribution</H3>
 Question: Which age group constitutes the largest portion of your customer base?  
+
 Interpretation:  
 - This chart displays the age demographics of customers, showing which age groups are most frequent shoppers.  
 Insights:
@@ -76,6 +81,7 @@ Insights:
 
 <H3>Graph 6: Purchase Method Frequency</H3>  
 Question: Is there a clear preference for any specific purchase method?  
+
 Interpretation:
 - This chart illustrates how often each purchase method is used, providing insights into customer preferences. 
 Insight:
@@ -84,6 +90,7 @@ Insight:
 
 <H3>Graph 7: Customer Satisfaction by Age</H3>
 Question: Which age group reports the highest satisfaction, and why?  
+
 Interpretation:  
 - This chart links customer satisfaction levels to age groups, helping identify trends in satisfaction based on age.
 Insights:
@@ -91,6 +98,7 @@ Insights:
 
 <H3>Graph 8: Frequently Purchased Items</H3>
 Question: What common features do the most frequently purchased items share?  
+
 Interpretation:
 - This chart identifies products that are purchased most frequently, helping highlight popular items.  
 Insights:
@@ -98,6 +106,7 @@ Insights:
 
 <H3>Graph 9: Sales Proportion by Store Location</H3>
 Question: Which stores contribute the most to overall sales?  
+
 Interpretation:  
 - This chart shows the contribution of each store location to the total sales, revealing the relative importance of different locations.  
 Insights:
@@ -105,6 +114,7 @@ Insights:
 
 <H3>Graph 10: Purchase Method vs. Store Location</H3>
 Question: Are certain methods more popular in specific locations?  
+
 Interpretation: 
 - This chart cross-analyzes the purchase methods used across store locations, revealing trends or preferences by region.  
 Insights:
@@ -112,6 +122,7 @@ Insights:
 
 <H3>Graph 11: Trend of Transactions overtime</H3> 
 Question: How has the total number of transactions trended over time?  
+
 Interpretation:
 - This figure represents the overall volume of transactions, serving as a performance metric.  
 Insights:
@@ -119,6 +130,7 @@ Insights:
 
 <H3>Graph 12: Opportunities to expand</H3>
 Question: Are there opportunities to expand into underserved regions?  
+
 Interpretation:  
 - This metric reflects the breadth of store presence in the dataset.  
 Insights:
@@ -126,6 +138,7 @@ Insights:
 
 <H3>Graph 13: Total Purchase Methods</H3>
 Question: Are additional purchase methods needed to meet customer expectations?  
+
 Interpretation:  
 - This figure represents the diversity of purchase methods used, showing the organization's adaptability to customer preferences.  
 Insights:
