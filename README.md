@@ -1,6 +1,39 @@
 # Individual-project-
+
+## Objective
+The objective of the project is to analyze sales data across various dimensions, such as customer demographics, purchase methods, store locations, and product performance, to derive actionable insights. The aim is to identify trends, optimize inventory management, improve customer satisfaction, enhance marketing strategies, and address underperforming areas. By leveraging these insights, the project seeks to drive business growth, improve operational efficiency, and align services with customer preferences for better decision-making.
+
 ## Summary
 The dataset provides a clear picture of sales and customer behavior across various store locations. Stores like London and Denver stand out for their strong sales, with laptops contributing significantly to revenue. Everyday items like notepads and pens are consistently popular, while younger customers often purchase school-related items like backpacks. Most transactions happen online, followed by in-store purchases, while phone orders are less common. Customers are generally satisfied, but there are occasional low ratings, highlighting room for improvement in areas like service or delivery. Coupons encourage big-ticket purchases, like laptops, but aren’t used as much as they could be. To improve, businesses should focus on stocking high-demand products, use targeted marketing for different customer groups, and make better use of coupons. Strengthening the online shopping experience and using data to predict trends can also help improve operations and drive more sales.
+<h1> Questions Asked About The Dataset For Dashboard</h1>
+
+Question 1: Which purchase method has the highest satisfaction level, and why? 
+
+Question 2: Which store location has the highest sales, and what factors contribute to this?
+
+Question 3: Are high-sales locations also high in customer satisfaction?  
+
+Question 4: Which product sells the most, and what makes it so popular? 
+
+Question 5: Which age group constitutes the largest portion of your customer base?  
+
+Question 6: Is there a clear preference for any specific purchase method?  
+
+Question 7: Which age group reports the highest satisfaction, and why?  
+
+Question 8: What common features do the most frequently purchased items share? 
+
+Question 9: Which stores contribute the most to overall sales?  
+
+Question 10: Are certain methods more popular in specific locations?  
+
+Question 11: How has the total number of transactions trended over time?  
+
+Question 12: Are there opportunities to expand into underserved regions?  
+
+Question 13: Are additional purchase methods needed to meet customer expectations?  
+
+![Sales](https://github.com/user-attachments/assets/186d4498-61a0-4c90-8b52-ca512f5fb105)
 
 ### Graph 1: Average Customer Satisfaction by Purchase Method  
 Question: Which purchase method has the highest satisfaction level, and why?  
@@ -24,7 +57,7 @@ This chart reflects how satisfied customers are at different store locations, wh
 Insights:
 Denver leads in customer satisfaction with a total score of 5,886, followed by Seattle at 4,298, reflecting strong service quality in these locations. London and Austin show moderate satisfaction levels at 3,019 and 2,547, respectively. New York and San Diego lag behind, with the lowest scores of 1,905 and 1,311, indicating significant room for improvement in customer experience, likely due to service or product issues
 
-### Graph 4: Product Quantity by Item Name  
+### Graph 4: Customer Product preference
 Question: Which product sells the most, and what makes it so popular?  
 Interpretation:  
 This chart shows the total sales quantity for each product, helping identify top-performing and underperforming items.  
@@ -74,14 +107,14 @@ This chart cross-analyzes the purchase methods used across store locations, reve
 Insights:
 In-store purchases dominate in Denver, with the highest transaction intensity, followed by Seattle and London. Online transactions are relatively consistent across all locations but are strongest in Denver and Seattle. Phone orders show minimal activity across all locations, with the least contribution in San Diego and Austin. Strengthening online and phone order channels in lower-performing regions, while maintaining the strong in-store experience, could help balance purchase methods across locations.
 
-### Graph 11: Total Number of Transactions  
+### Graph 11: Trend of Transactions overtime 
 Question: How has the total number of transactions trended over time?  
 Interpretation:
 This figure represents the overall volume of transactions, serving as a performance metric.  
 Insights:
 The total number of transactions is 27,438, indicating a robust volume of sales activity. This highlights strong customer engagement across multiple locations and purchase methods. Monitoring transaction trends over time can help identify peak periods and opportunities for targeted promotions. Additionally, analyzing transaction distribution by location and purchase method can provide insights into areas needing improvement to further increase overall sales.
 
-### Graph 12: Unique Store Locations  
+### Graph 12: Opportunities to expand 
 Question: Are there opportunities to expand into underserved regions?  
 Interpretation:  
 This metric reflects the breadth of store presence in the dataset.  
@@ -97,9 +130,6 @@ Insights:
 The dataset includes 3 purchase methods: Online, In-Store, and Phone. In-Store purchases dominate, followed by Online, while Phone transactions are minimal. This distribution highlights the importance of maintaining a strong in-store experience while optimizing online platforms to meet growing demand. Streamlining phone orders or transitioning customers to digital channels could enhance efficiency. Understanding customer preferences across methods will help improve service quality and balance usage across all purchase channels.
 
 ### Learning
-
-## Objective
-The objective of the project is to analyze sales data across various dimensions, such as customer demographics, purchase methods, store locations, and product performance, to derive actionable insights. The aim is to identify trends, optimize inventory management, improve customer satisfaction, enhance marketing strategies, and address underperforming areas. By leveraging these insights, the project seeks to drive business growth, improve operational efficiency, and align services with customer preferences for better decision-making.
 
 ### Managerial Insights Gained from the Project
 
